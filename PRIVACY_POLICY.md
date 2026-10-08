@@ -54,7 +54,18 @@ Clackey is designed to work 100% offline. The only feature that connects to the 
 
 ---
 
-## 5. Device Permissions Explained
+## 5. Optional Community Feedback & Feature Requests
+
+Clackey provides an optional in-app feedback and product roadmap portal (powered by [Fedo](https://getfedo.com)):
+
+- **User-Initiated Only:** The feedback portal is only contacted when you deliberately open **Settings → Feedback & Community Roadmap** or submit a suggestion from **Help & Support**.
+- **Data Submitted:** Only the text you explicitly provide (such as your feedback title, description, or optional contact info) and anonymous vote counts are transmitted to Fedo to display feature requests and bug reports.
+- **Zero Keyboard Access:** The feedback portal is completely separate from keyboard typing. Your keystrokes, personal messages, and clipboard data are never accessible or shared.
+- For more information on Fedo's privacy standards, visit [getfedo.com](https://getfedo.com).
+
+---
+
+## 6. Device Permissions Explained
 
 Android requires keyboard apps to request certain permissions to function. Here is why Clackey requests them:
 
@@ -66,7 +77,7 @@ Android requires keyboard apps to request certain permissions to function. Here 
 
 ---
 
-## 6. Your Rights & Data Control
+## 7. Your Rights & Data Control
 
 You are in total control of your data at all times:
 
@@ -76,19 +87,19 @@ You are in total control of your data at all times:
 
 ---
 
-## 7. Children's Privacy
+## 8. Children's Privacy
 
 Clackey does not collect personal information from any user, including children. The application is family-friendly and safe for typists of all ages.
 
 ---
 
-## 8. Policy Updates
+## 9. Policy Updates
 
 If we ever make updates to this Privacy Policy, the revised version will be accessible directly within the app under **Settings → About & Legal → Privacy Policy** and reflected here with an updated effective date.
 
 ---
 
-## 9. Contact Us
+## 10. Contact Us
 
 If you have questions, suggestions, or feedback about Clackey's privacy protections, we would love to hear from you:
 
