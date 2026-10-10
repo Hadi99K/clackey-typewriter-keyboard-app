@@ -2,7 +2,7 @@
 
 All notable changes to Clackey – Typewriter Keyboard are documented in this file.
 
-- Latest Production Version: v1.0.1 (03)
+- Latest Production Version: v1.0.1 (04)
 
 ---
 
@@ -16,7 +16,6 @@ All notable changes to Clackey – Typewriter Keyboard are documented in this fi
 - Added Keyboard Height Scaling Customization:
 - Added 5-step keyboard height adjustment (85% to 116%) with instant live re-layout.
 - Integrated Fedo feedback and support page for user-initiated feedback, bug reporting, and community roadmap voting.
-- Upgraded compileSdk and targetSdk to API 36 (Android 16) ensuring compatibility with latest Google Play requirements.
 
 ---
 
