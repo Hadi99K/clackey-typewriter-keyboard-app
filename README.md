@@ -2,7 +2,7 @@
 
 Vintage acoustic character meets modern Android input precision. Clackey is an offline-first, privacy-conscious Input Method Editor (IME) built for Android.
 
-[![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026--35)-blue.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026--36)-blue.svg)](#)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device%20(No%20Logging)-green.svg)](#)
 [![Package](https://img.shields.io/badge/Package-com.clackey.keyboard-orange.svg)](#)
 
